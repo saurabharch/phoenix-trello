@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "bourbon": "^4.2.6",
-    "bourbon-neat": "^1.7.2",
+    "bourbon-neat": "^2.0.0",
     "classnames": "^2.2.1",
     "es6-promise": "^3.0.2",
     "history": "^1.17.0",
